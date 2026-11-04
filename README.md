@@ -62,7 +62,7 @@ More projects coming soon.
 ## 06 / GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amin-esmailpour&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
