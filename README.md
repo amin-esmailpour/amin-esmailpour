@@ -25,8 +25,6 @@ I believe cybersecurity starts with understanding how systems work.
 
 ## 02 / Technical Arsenal
 
-## 02 / Technical Arsenal
-
 ### Operating Systems
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
@@ -48,16 +46,35 @@ I believe cybersecurity starts with understanding how systems work.
   <img src="https://img.shields.io/badge/Network-Security-212121?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-## 03 / Home Lab
+## 03 / Home Lab & Infrastructure
 
-Currently building and experimenting with:
+<p align="center">
+  <img src="https://img.shields.io/badge/PROXMOX-Virtualization-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PFSENSE-Firewall-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-- Proxmox Virtualization
-- Docker Services
-- Nginx Proxy Manager
-- Pi-hole DNS
-- pfSense Firewall
-- Ubuntu Server
+### Infrastructure Environment
+
+Currently building and managing a self-hosted lab environment focused on virtualization, networking, and infrastructure security.
+
+| Component | Purpose |
+|---|---|
+| Proxmox VE | Virtualization & VM Management |
+| pfSense | Firewall & Network Routing |
+| Docker | Containerized Applications |
+| Nginx Proxy Manager | Reverse Proxy |
+| Pi-hole | Local DNS Management |
+| Ubuntu Server | Server Administration |
+
+### Lab Objectives
+
+- Understanding network architecture
+- Managing virtual machines and containers
+- Configuring DNS and reverse proxies
+- Exploring firewall policies
+- Building secure self-hosted services
+
 
 ## 04 / Current Focus
 
