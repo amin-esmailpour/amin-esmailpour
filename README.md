@@ -25,14 +25,28 @@ I believe cybersecurity starts with understanding how systems work.
 
 ## 02 / Technical Arsenal
 
-| Category | Technologies |
-|---|---|
-| Operating Systems | Linux, Kali Linux, Ubuntu |
-| Networking | TCP/IP, DNS, DHCP, Routing |
-| Security | Network Security, Vulnerability Assessment |
-| Infrastructure | Proxmox, Docker, Nginx |
-| Firewall | pfSense |
-| Programming | Python, Bash, C++ |
+## 02 / Technical Arsenal
+
+### Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
+</p>
+
+### Networking & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,proxmox" />
+</p>
+
+### Programming & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,cpp,git" />
+</p>
+
+### Security & Systems
+<p>
+  <img src="https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Security-212121?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
 
 ## 03 / Home Lab
 
