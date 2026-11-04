@@ -141,3 +141,9 @@ More experiments and documented projects coming soon.
 <p align="center">
   <i>Interested in cybersecurity, networking, and infrastructure collaboration.</i>
 </p>
+
+## 08 / Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amin-esmailpour/amin-esmailpour/output/github-snake-dark.svg" width="100%" />
+</p>
