@@ -93,9 +93,10 @@ More projects coming soon.
 ## 06 / GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amin-esmailpour&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amin-esmailpour&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-esmailpour&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <i>Building better systems. Learning deeper security.</i>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-esmailpour&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
