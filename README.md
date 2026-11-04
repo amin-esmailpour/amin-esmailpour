@@ -84,11 +84,40 @@ Currently building and managing a self-hosted lab environment focused on virtual
 - Web Security Fundamentals
 - Infrastructure Security
 
-## 05 / Projects & Labs
+## 05 / Security Projects & Research
 
-A collection of hands-on experiments, infrastructure projects, and cybersecurity learning environments.
+<p align="center">
+  <img src="https://img.shields.io/badge/AREA-NETWORK_SECURITY-101010?style=for-the-badge&logo=cisco&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/AREA-LINUX_SECURITY-101010?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/AREA-INFRASTRUCTURE-101010?style=for-the-badge&logo=proxmox&logoColor=39FF14"/>
+</p>
 
-More projects coming soon.
+### Current Projects
+
+**01 — Home Lab Infrastructure**
+- Virtualized infrastructure using Proxmox VE
+- Network management and firewall experimentation
+- Self-hosted services and Docker deployments
+
+**02 — Network Security Labs**
+- TCP/IP and network protocol exploration
+- DNS and routing experiments
+- Firewall configuration and network segmentation
+
+**03 — Linux & Server Administration**
+- Ubuntu Server management
+- Linux services and system administration
+- Reverse proxy and local DNS configuration
+
+### Research Interests
+
+- Network Security
+- Web Application Security
+- Vulnerability Assessment
+- Infrastructure Hardening
+- Security Monitoring
+
+More experiments and documented projects coming soon.
 
 ## 06 / GitHub Statistics
 
@@ -99,4 +128,16 @@ More projects coming soon.
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-esmailpour&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+</p>
+
+## 07 / Connect With Me
+
+<p align="center">
+  <a href="https://github.com/amin-esmailpour">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Interested in cybersecurity, networking, and infrastructure collaboration.</i>
 </p>
